@@ -13,22 +13,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+# Impostazioni tema
 theme: jekyll-theme-so-simple
+paginate: 5
+paginate_path: /page:num/
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
-locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale: it-it
+title: "Leggo Ergo Sum"
+description: "Appunti e riflessioni dalle mie letture."
+baseurl: ""
+url: https://sasadange.github.io
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
-  combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
-  tags:  # "none", "ams" (default), "all"
+  combo: # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
+  tags: # "none", "ams" (default), "all"
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -90,10 +93,14 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
-  picture:
-  email:
+# Autore
+owner:
+  name: Salvatore D'Angelo
+  email: sasadangelo@gmail.com
+  bio: >
+    Programmatore professionista con la passione per la lettura.
+  location: Italia
+  avatar: /assets/img/salvatore_d_angelo.jpeg # carica un'immagine qui se desideri
   twitter:
   links:
     - title:
@@ -105,3 +112,13 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+# Sidebar settings
+sidebar:
+  - title: "Leggo Ergo Sum"
+    image: /images/logo.png # tuo logo, opzionale
+    url: "/" # link del titolo (di solito home)
+  - title: "Chi sono"
+    url: "/about/"
+  - title: "Contatti"
+    url: "/contact/"
