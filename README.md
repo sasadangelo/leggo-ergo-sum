@@ -2,7 +2,7 @@
 
 Benvenuto nel repository del blog **Leggo Ergo SUM** — uno spazio personale dove annoto riflessioni, citazioni e spunti tratti dalle mie letture. Un invito a vivere con più consapevolezza, ispirato da autori classici e contemporanei.
 
-🔗 **Sito live**: [https://sasadangelo.github.io/leggo-ergo-sum]([https://tuo-username.github.io](https://sasadangelo.github.io/leggo-ergo-sum))
+🔗 **Sito live**: [https://sasadangelo.github.io/leggo-ergo-sum]([https://tuo-username.github.io](https://sasadangelo.github.io/leggo-ergo-sum)
 *(Sostituisci con il link corretto una volta pubblicato)*
 
 ---
