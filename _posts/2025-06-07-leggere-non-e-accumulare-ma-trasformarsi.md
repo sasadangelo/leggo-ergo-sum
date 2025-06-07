@@ -22,9 +22,9 @@ Quando ammiriamo qualcuno, quando vogliamo davvero imparare da lui, non ci limit
 
 **La lettura non è accumulo. È trasformazione.**
 
-E allora, invece della lettura bulimica, io rivendico la lentezza. Rivendico la fedeltà a pochi autori, quelli che mi insegnano ogni volta qualcosa di nuovo, anche quando li rileggo. Rivendico il tempo della riflession, ma non tutto merita di restare. Solo ciò che lascia una traccia profonda può davvero nutrire l’anima.
+E allora, invece della lettura bulimica, io rivendico la lentezza. Rivendico la fedeltà a pochi autori, quelli che mi insegnano ogni volta qualcosa di nuovo, anche quando li rileggo. Rivendico il tempo della riflessione, ma non tutto merita di restare. Solo ciò che lascia una traccia profonda può davvero nutrire l’anima.
 
-Questo modo di intendere la lettura è ciò che mi ha spinto a creare questo sito: uno spazio per custodire ciò che vale la pena fermarsi a comprendere.
+Questo modo di intendere la lettura è ciò che mi ha spinto a creare questo sito: **uno spazio per custodire ciò che vale la pena fermarsi a comprendere**.
 
 ---
 
