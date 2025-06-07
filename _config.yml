@@ -122,3 +122,6 @@ sidebar:
     url: "/about/"
   - title: "Contatti"
     url: "/contact/"
+
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
