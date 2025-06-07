@@ -1,6 +1,6 @@
 # 📖 Leggo Ergo SUM
 
-Benvenuto nel repository del blog **Leggo Ergo SUM** — uno spazio personale dove annoto riflessioni, citazioni e spunti tratti dalle mie letture. Un invito a vivere con più consapevolezza, ispirato da autori classici e contemporanei.
+Benvenuto nel repository del blog **Leggo Ergo SUM** — uno spazio personale dove annoto riflessioni, citazioni e spunti tratti dalle mie letture.
 
 🔗 **Sito live**: [https://sasadangelo.github.io/leggo-ergo-sum](https://sasadangelo.github.io/leggo-ergo-sum)
 
