@@ -30,11 +30,11 @@ Per eseguire il sito localmente con Jekyll:
    bundle exec jekyll serve --config _config.yml,_config.dev.yml
    ```
 
-✍️ Tema
+## ✍️ Tema
 
 Il blog utilizza il tema [So Simple](https://github.com/mmistakes/so-simple-theme) di [Michael Rose](https://mademistakes.com/), personalizzato per riflettere il mio stile e le mie passioni.
 
-📄 Licenza
+## 📄 Licenza
 
 Questo progetto è distribuito con licenza MIT.
 Contenuti originali (testi, immagini, ecc.) sono di proprietà dell'autore, salvo diversa indicazione.
