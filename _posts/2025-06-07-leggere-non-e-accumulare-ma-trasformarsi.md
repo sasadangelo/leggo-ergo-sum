@@ -6,6 +6,9 @@ categories: [Filosofia]
 tags: [seneca, lettere-lucilio]
 excerpt: "In un’epoca in cui leggere sembra diventato un esercizio di velocità e consumo, rivendico il valore della lentezza, della profondità, della fedeltà a pochi autori. Non serve leggere tutto, ma leggere bene. La lettura autentica non è accumulo: è trasformazione."
 image: /assets/img/lettura-riflessiva.jpg
+author:
+  name: di Salvatore D'Angelo
+  picture: /assets/img/salvatore_d_angelo.jpeg
 ---
 
 Viviamo in un’epoca in cui tutto corre, si consuma e si dimentica in fretta. Anche la lettura, che un tempo era un gesto silenzioso e profondo, è oggi spesso ridotta a una prestazione. Vedo ovunque pubblicità che dicono che i CEO leggono 5 libri al giorno. Ci vengono venduti corsi per leggere più in fretta, come se leggere fosse una gara, come se più titoli divoriamo, più diventiamo intelligenti, influenti, ricchi.

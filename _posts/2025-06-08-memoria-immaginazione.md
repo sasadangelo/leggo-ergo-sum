@@ -6,6 +6,9 @@ categories: [Filosofia]
 tags: [seneca, lettere-lucilio]
 excerpt: "Memoria e immaginazione sono doni potenti: ci permettono di viaggiare nel tempo, di apprendere dal passato e costruire il futuro. Ma se non li governiamo, rischiano di governarci. Questo post è una riflessione su come la mente può diventare il nostro rifugio… o la nostra trappola."
 image: /assets/img/memoria-immaginazione.jpg
+author:
+  name: di Salvatore D'Angelo
+  picture: /assets/img/salvatore_d_angelo.jpeg
 ---
 
 Abbiamo due strumenti straordinari, due doni della mente che ci rendono unici tra gli esseri viventi: la **memoria** e l’**immaginazione**.
