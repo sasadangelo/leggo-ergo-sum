@@ -3,7 +3,7 @@ layout: post
 title: "Riflessione sul Tempo"
 date: 2025-06-07
 categories: [Filosofia]
-tags: [filosofia, seneca]
+tags: [seneca, lettere-lucilio]
 excerpt: "Viviamo come se il tempo fosse infinito, ma ogni minuto sprecato è un bene che non torna più. Una riflessione ispirata a Seneca su come investire consapevolmente la nostra risorsa più preziosa: il tempo."
 image: /assets/img/tempo.jpg
 ---

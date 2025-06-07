@@ -3,7 +3,7 @@ layout: post
 title: "Leggere non è accumulare, è trasformarsi"
 date: 2025-06-07
 categories: [Filosofia]
-tags: [filosofia, seneca]
+tags: [seneca, lettere-lucilio]
 excerpt: "In un’epoca in cui leggere sembra diventato un esercizio di velocità e consumo, rivendico il valore della lentezza, della profondità, della fedeltà a pochi autori. Non serve leggere tutto, ma leggere bene. La lettura autentica non è accumulo: è trasformazione."
 image: /assets/img/lettura-riflessiva.jpg
 ---
