@@ -8,7 +8,7 @@ excerpt: "Memoria e immaginazione sono doni potenti: ci permettono di viaggiare 
 image: /assets/img/memoria-immaginazione.jpg
 author:
   name: di Salvatore D'Angelo
-  picture: /assets/img/salvatore_d_angelo.jpeg
+  picture: /assets/img/logo-mini.png
 ---
 
 Abbiamo due strumenti straordinari, due doni della mente che ci rendono unici tra gli esseri viventi: la **memoria** e l’**immaginazione**.

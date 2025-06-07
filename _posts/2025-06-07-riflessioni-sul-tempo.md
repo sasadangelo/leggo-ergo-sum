@@ -8,7 +8,7 @@ excerpt: "Viviamo come se il tempo fosse infinito, ma ogni minuto sprecato è un
 image: /assets/img/tempo.jpg
 author:
   name: di Salvatore D'Angelo
-  picture: /assets/img/salvatore_d_angelo.jpeg
+  picture: /assets/img/logo-mini.png
 ---
 
 Viviamo come se il tempo fosse infinito, come se ogni giornata che scorre potesse essere riacquistata domani. Facciamo scivolare ore sui social, settimane in riunioni inutili, mesi in lavori che ci svuotano e non ci fanno crescere. E intanto, il bene più prezioso – quello che nessuno può restituirti – se ne va in silenzio: **il tuo tempo**.
