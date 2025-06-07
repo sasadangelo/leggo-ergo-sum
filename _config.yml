@@ -22,7 +22,7 @@ skin: "/assets/css/skins/default.css"
 locale: it-it
 title: "Leggo Ergo Sum"
 description: "Appunti e riflessioni dalle mie letture."
-baseurl: ""
+baseurl: "leggo-ergo-sum"
 url: https://sasadange.github.io
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
