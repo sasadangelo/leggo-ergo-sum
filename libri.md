@@ -17,3 +17,7 @@ Ci sono autori che leggo e rileggo, ai quali ritorno più volte: le loro parole 
 ## Filosofia
 
 [Lettere a Lucilio](https://www.amazon.it/Lettere-Lucilio-Lucio-Anneo-Seneca/dp/886311532X/) - [Lucio Anneo Seneca](../tags/#seneca) - [Mie Riflessioni](../tags/#lettere-lucilio)
+
+## Self-help
+
+[L'Ego è il Nemico](https://www.amazon.it/nemico-dominare-nostro-grande-avversario/dp/8809990323) - [Ryan Holiday](../tags/#holiday) - [Mie Riflessioni](../tags/#ego-nemico)
