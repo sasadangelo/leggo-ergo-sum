@@ -37,6 +37,8 @@ E allora tanto vale, nel dubbio, scegliere la speranza.
 Sperare non è illudersi. È dare una possibilità al bene, così come spesso diamo fin troppo spazio al male.
 
 In fondo, la mente è uno specchio: riflette ciò che le mettiamo davanti. Sta a noi decidere se mostrarle una via in salita o un muro insormontabile.
+Quindi non lasciamo che memoria e immaginazione ci travolgano, rischiamo di perdere il contatto con l’unico tempo che possiamo davvero vivere: **il presente**.
+Tutto nasce da lì, dalla difficoltà di abitare il momento con realismo, senza fuggire nel passato né temere il futuro.
 
 ---
 

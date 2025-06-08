@@ -16,4 +16,4 @@ Ci sono autori che leggo e rileggo, ai quali ritorno più volte: le loro parole 
 
 ## Filosofia
 
-[Lettere a Lucilio](https://www.amazon.it/Lettere-Lucilio-Lucio-Anneo-Seneca/dp/886311532X/) - [Mie Riflessioni](../tags/#lettere-lucilio)
+[Lettere a Lucilio](https://www.amazon.it/Lettere-Lucilio-Lucio-Anneo-Seneca/dp/886311532X/) - [Lucio Anneo Seneca](../tags/#seneca) - [Mie Riflessioni](../tags/#lettere-lucilio)

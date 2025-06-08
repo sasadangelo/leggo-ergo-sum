@@ -24,7 +24,7 @@ title: "Leggo Ergo Sum"
 description: "Appunti e riflessioni dalle mie letture."
 baseurl: "leggo-ergo-sum"
 url: https://sasadange.github.io
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: /assets/img/logo-mini.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
