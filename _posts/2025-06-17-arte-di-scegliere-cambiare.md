@@ -22,7 +22,7 @@ Per questo è fondamentale imparare a distinguere tra ciò che possiamo controll
 
 Quello che invece possiamo fare è focalizzarci su ciò che dipende da noi, e avere il coraggio di agire. Cambiare una piccola abitudine. Fare una scelta difficile. Smettere di rimandare. Guardare le cose da un altro punto di vista. Accettare ciò che non si può cambiare — senza subire, ma scegliendo di andare oltre.
 
-Non si tratta di rassegnazione. Si tratta di [**conoscersi, riconoscere i propri desideri autentici**](/filosofia/desideri-nustrono-consumano/), distinguere quelli che nutrono da quelli che consumano. E scegliere con lucidità: cosa vale la pena perseguire? Cosa, invece, è solo una fonte continua di tensione e insoddisfazione?
+Non si tratta di rassegnazione. Si tratta di [**conoscersi, riconoscere i propri desideri autentici**]({{ "/filosofia/desideri-nustrono-consumano/" | relative_url }}), distinguere quelli che nutrono da quelli che consumano. E scegliere con lucidità: cosa vale la pena perseguire? Cosa, invece, è solo una fonte continua di tensione e insoddisfazione?
 
 Non possiamo avere tutto. Ma possiamo vivere con pienezza, con presenza, scegliendo ogni giorno con consapevolezza cosa vale e cosa no.
 
