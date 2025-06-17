@@ -18,6 +18,8 @@ Ci sono autori che leggo e rileggo, ai quali ritorno più volte: le loro parole 
 
 [Lettere a Lucilio](https://www.amazon.it/Lettere-Lucilio-Lucio-Anneo-Seneca/dp/886311532X/) - [Lucio Anneo Seneca](../tags/#seneca) - [Mie Riflessioni](../tags/#lettere-lucilio)
 
+[Lettera a Meneceo sulla Felicità](https://www.amazon.it/Lettera-sulla-felicit%C3%A0-Epicuro/dp/B09TV576CQ) - [Epicuro](../tags/#epicuro) - [Mie Riflessioni](../tags/#lettera-felicita)
+
 ## Self-help
 
 [L'Ego è il Nemico](https://www.amazon.it/nemico-dominare-nostro-grande-avversario/dp/8809990323) - [Ryan Holiday](../tags/#holiday) - [Mie Riflessioni](../tags/#ego-nemico)
