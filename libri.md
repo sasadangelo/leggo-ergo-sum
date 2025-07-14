@@ -23,3 +23,7 @@ Ci sono autori che leggo e rileggo, ai quali ritorno più volte: le loro parole 
 ## Self-help
 
 [L'Ego è il Nemico](https://www.amazon.it/nemico-dominare-nostro-grande-avversario/dp/8809990323) - [Ryan Holiday](../tags/#holiday) - [Mie Riflessioni](../tags/#ego-nemico)
+
+## Religione
+
+[Vangelo](https://www.amazon.it/apostoli-versione-ufficiale-Conferenza-Episcopale/dp/8821563324) - [Mie Riflessioni](../tags/#vangelo)
