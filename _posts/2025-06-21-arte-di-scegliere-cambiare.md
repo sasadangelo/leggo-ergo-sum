@@ -43,6 +43,7 @@ Quattro scene quotidiane. Quattro risposte controintuitive.
 Un filo conduttore unico: **la libertà non è fare ciò che si vuole, ma scegliere come reagire a ciò che accade**.
 
 Non per rassegnarsi. Ma per cambiare, in meglio, il modo in cui stiamo al mondo.
+
 ---
 
 > **In quel tempo, Gesù disse ai suoi discepoli: « Avete inteso che fu detto: "Occhio per occhio e dente per dente";**
