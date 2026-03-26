@@ -24,6 +24,13 @@ Ci sono autori che leggo e rileggo, ai quali ritorno più volte: le loro parole 
 
 [L'Ego è il Nemico](https://www.amazon.it/nemico-dominare-nostro-grande-avversario/dp/8809990323) - [Ryan Holiday](../tags/#holiday) - [Mie Riflessioni](../tags/#ego-nemico)
 
+[Leggi della Natura Umana](https://www.amazon.it/leggi-della-natura-umana/dp/B0C4CPX9QL/ref=asc_df_B0C4CPX9QL) - [Robert Greene](../tags/#greene) - [Mie Riflessioni](../tags/#leggi-natura-umana)
+
 ## Religione
 
 [Vangelo](https://www.amazon.it/apostoli-versione-ufficiale-Conferenza-Episcopale/dp/8821563324) - [Mie Riflessioni](../tags/#vangelo)
+
+## Economia
+
+[Come guadagnare in Borsa]((https://www.amazon.it/guadagnare-Tecniche-strumenti-fondamentali-investire/dp/8871879333)) - [Mie Riflessioni](../tags/#investire)
+È un libro che forse oggi non consiglierei di acquistare ma è stato il libro che mi ha insegnato i primi rudimenti di economia. È un libro un po' tecnico, forse un po' datato ma che espone principi base dell'investimento e poi dedica ampio spazio alle due grandi aree dell'investimento: Analisi Tecnica e Value Investing.
